@@ -18,13 +18,13 @@ const blogPosts = [
     content: `
       <p>201八人集体于2024年组成，是一个充满活力的团体。成员包括：</p>
       <ul>
-        <li><strong>宿舍彭于晏（鸡头）</strong></li>
+        <li><strong>中国机长（鸡头）</strong></li>
         <li><strong>鲜榨柠檬汁（柠檬）</strong></li>
         <li><strong>58（王志轩）</strong></li>
         <li><strong>把鸡头当儿子训（董佳耀）</strong></li>
-        <li><strong>卷王（坤哥）</strong></li>
+        <li><strong>逝去的文学家（张旭豪）</strong></li>
         <li><strong>阿牛（牛国举）</strong></li>
-        <li><strong>大胖（自己猜）</strong></li>
+        <li><strong>副机长（刘星宇）</strong></li>
         <li><strong>本网站编辑者（展）</strong></li>
       </ul>
       <p>我们因缘分相聚，共同书写这段有趣的回忆。</p>
